@@ -1,4 +1,4 @@
-## Artificial Intelligence Lab (1BM18CS017)
+## Artificial Intelligence Lab (1BM20CS017 - Ankith S)
 Lab 1: Tic Tac Toe<br>
 Lab 2: 8 Puzzle bfs<br>
 Lab 3: 8 Puzzle ids<br>
